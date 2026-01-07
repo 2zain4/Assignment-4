@@ -1,0 +1,23 @@
+{
+  "name": "assignment-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2zain4/Assignment-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2zain4/Assignment-4/issues"
+  },
+  "homepage": "https://github.com/2zain4/Assignment-4#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
